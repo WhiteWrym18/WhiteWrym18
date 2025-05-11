@@ -15,8 +15,6 @@ Welcome to my GitHub profile! I'm a developer who loves exploring the world of c
 ## 📊 GitHub Stats
 ![WhiteWrym18's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WhiteWrym18&show_icons=true&theme=tokyonight)
 
-## 🌱
-
 ---
 
 *"Code is not just code; it's a story waiting to be told."*
