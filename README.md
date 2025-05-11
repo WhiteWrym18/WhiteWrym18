@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a developer who loves exploring the world of c
 
   
 ## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, C#
+- **Languages:** Python, C#
 - **DevOps:** Docker, GitHub Actions
 
 ## 📊 GitHub Stats
