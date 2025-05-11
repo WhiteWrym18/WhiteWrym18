@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a developer who loves exploring the world of c
 
 ## 🌟 About Me
 - 💻 
-- 🌱 Always learning and exploring new technologies.
+- 🌱 
 - 🚀
 
   
